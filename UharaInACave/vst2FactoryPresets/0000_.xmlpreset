@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Preset pluginId="48415241" name="Preset 1">
+ <Param id="8" val="768" />
+ <Param id="9" val="0" MIDI="33554437" />
+ <Param id="557491343" val="0.0367231" />
+ <Param id="1725243597" val="10" />
+ <Param id="1957029796" val="" />
+ <Param id="2061797529" val="2" MIDI="50331648" />
+</Preset>
